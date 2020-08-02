@@ -1,20 +1,25 @@
 <p align="center">
-  <img title="Always on Time" height=90 src="https://cdn.shopify.com/s/files/1/0247/0877/products/Always_on_time_-_resize_large.jpg?v=1482371286">
-  <img title="Supportive" height=100 src="https://www.graphicsprings.com/filestorage/stencils/83d00c27a054c498640deec554233123.png?width=500&height=500">
+  <img title="Always on Time" height=90
+    src="https://cdn.shopify.com/s/files/1/0247/0877/products/Always_on_time_-_resize_large.jpg?v=1482371286">
+  <img title="Supportive" height=100
+    src="https://www.graphicsprings.com/filestorage/stencils/83d00c27a054c498640deec554233123.png?width=500&height=500">
   <img title="Autodidact" height=90 src="https://assets.bigcartel.com/theme_images/2426761/autodidactshirt.png">
-  <img title="Positive Behaviour" height=100 src="https://i.pinimg.com/originals/c2/d7/9c/c2d79c2955a429eb7eb4fecbdd2d3d62.jpg">
-  <img title="Open To Communication" height=100 src="https://logosolusa.com/wp-content/uploads/parser/Open-Communication-Security-Logo-1.png">
-  <img title="Constructive Feedback Giver & Taker" height=100 src="https://www.gallerycollection.com/blog/wp-content/uploads/2016/06/feedback.png">
-</span>
- </p>
+  <img title="Positive Behaviour" height=100
+    src="https://i.pinimg.com/originals/c2/d7/9c/c2d79c2955a429eb7eb4fecbdd2d3d62.jpg">
+  <img title="Open To Communication" height=100
+    src="https://logosolusa.com/wp-content/uploads/parser/Open-Communication-Security-Logo-1.png">
+  <img title="Constructive Feedback Giver & Taker" height=100
+    src="https://www.gallerycollection.com/blog/wp-content/uploads/2016/06/feedback.png">
+  </span>
+</p>
 
 <br>
-<p align="center"> 
-Hello :wave: <b> I am Kubilay Çağlayan</b>  <br/>
-I live in Ankara, Turkey. :tr:  <br/>
-Currently a <b>student</b> at Microverse :man_student: <br/>
-:heavy_plus_sign:  A part-time <b>Technical Support Engineer</b> at Microverse :computer: <br/>
-:heavy_plus_sign:  <b>Helping local businesses to run their data on the cloud</b> :cloud:<br/>
+<p align="center">
+  Hello :wave: <b> I am Kubilay Çağlayan</b> <br />
+  I live in Ankara, Turkey. :tr: <br />
+  Currently a <b>student</b> at Microverse :man_student: <br />
+  :heavy_plus_sign: A part-time <b>Technical Support Engineer</b> at Microverse :computer: <br />
+  :heavy_plus_sign: <b>Helping local businesses to run their data on the cloud</b> :cloud:<br />
 </p>
 <img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=kubilaycaglayan' />
 
