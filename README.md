@@ -15,10 +15,9 @@
 
 <br>
 <p align="center">
-  Hello :wave: <b> I am Kubilay Çağlayan</b> <br />
+  Hello :wave: <b> I am Kubilay Çağlayan</b> 👨‍🚀 <br />
   I live in Ankara, Turkey. :tr: <br />
-  Currently a <b>student</b> at Microverse :man_student: <br />
-  :heavy_plus_sign: A part-time <b>Technical Support Engineer</b> at Microverse :computer: <br />
+  Currently a <b>Student</b> :man_student: and <b>Technical Support Engineer</b> 👓 at Microverse 🌐 <br />
   :heavy_plus_sign: <b>Helping local businesses to run their data on the cloud</b> :cloud:<br />
 </p>
 <img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=kubilaycaglayan' />
@@ -44,6 +43,10 @@
     <img title="Webpack" alt="Webpack" height=40 src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
+</p>
+
+<p align="right">
+ 👋 Feel free to use this template... 😊
 </p>
  
 
