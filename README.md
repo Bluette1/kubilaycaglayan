@@ -17,7 +17,8 @@
 <p align="center">
   Hello :wave: <b> I am Kubilay Çağlayan</b> 👨‍🚀 <br />
   I live in Ankara, Turkey. :tr: <br />
-  Currently a <b>Student</b> :man_student: and <b>Technical Support Engineer</b> 👓 at Microverse 🌐 <br />
+  I am currently a <b>Technical Support Engineer</b> <a class="my-school" title="My remote software development school and workplace" href="https://microverse.org"
+                  target="_blank">@Microverse</a> 🌐 <br />
   :heavy_plus_sign: <b>Helping local businesses to run their data on the cloud</b> :cloud:<br />
 </p>
 <img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=kubilaycaglayan' />
