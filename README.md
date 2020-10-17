@@ -15,9 +15,11 @@
 
 <br>
 <p align="center">
-  <img
+  <a href="https://www.linkedin.com/in/kubilaycaglayan/" target="_blank">
+    <img
        title="Open for job" height=20 width=320
        src="https://user-images.githubusercontent.com/60448833/96334840-64ea5500-107c-11eb-9f5f-730aae9728c0.png"> <br />
+  </a>
   Hello :wave: <b> I am Kubilay Çağlayan</b> 👨‍🚀 <br />
   I live in Ankara, Turkey. :tr: <br />
   I am currently a <b>Technical Support Engineer</b> <a class="my-school" title="My remote software development school and workplace" href="https://microverse.org"
